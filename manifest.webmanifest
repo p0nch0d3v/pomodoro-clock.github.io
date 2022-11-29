@@ -1,0 +1,1 @@
+{"name":"Pomodoro Clock","short_name":"Pomodoro Clock","start_url":"/index.html","display":"fullscreen","background_color":"black","lang":"en-US","scope":"/","description":"Pomodoro Clock","theme_color":"black","icons":[{"src":"/images/icon-144.png","sizes":"144x144","type":"image/png","purpose":"any maskable"}],"version":"0.1.1"}
